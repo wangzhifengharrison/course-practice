@@ -25,3 +25,14 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+## For laravel backend part
+
+
+run `cd src and cd app`
+run `composer create-project --prefer-dist laravel/laravel backend "5.2.*"`
+run `php artisan serve`
+
+
+
