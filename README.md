@@ -36,3 +36,8 @@ run `php artisan serve`
 
 
 
+## For laravel backend part
+
+run `cd src and cd app`
+run `composer create-project --prefer-dist laravel/laravel backend "5.2.*"`
+run `php artisan serve`
