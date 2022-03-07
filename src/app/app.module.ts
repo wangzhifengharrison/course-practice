@@ -7,6 +7,7 @@ import { HomepageComponent } from './homepage/homepage.component';
 import { HtmlpageComponent } from './htmlpage/htmlpage.component';
 import { CsspageComponent } from './csspage/csspage.component';
 import { NavigationpageComponent } from './navigationpage/navigationpage.component';
+import { BlogComponent } from './blog/blog.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { NavigationpageComponent } from './navigationpage/navigationpage.compone
     HomepageComponent,
     HtmlpageComponent,
     CsspageComponent,
-    NavigationpageComponent
+    NavigationpageComponent,
+    BlogComponent
   ],
   imports: [
     BrowserModule,
